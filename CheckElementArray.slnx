@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CheckElementArray/CheckElementArray.vcxproj" Id="e1eb30a4-19ec-4917-a339-6edf14c3d6db" />
+</Solution>
